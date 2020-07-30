@@ -42,6 +42,7 @@
     "import/prefer-default-export": "off",
     "prettier/prettier": "error",
     "camelcase": "off",
+    "react/jsx-one-expression-per-line": "off",
     "import/extensions": [
       "error",
       "ignorePackages",
